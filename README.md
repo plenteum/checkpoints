@@ -97,8 +97,8 @@ miner  poolwallet  zedwallet  Plenteumd  wallet-service
 #### IO error
 
 ```
-2018-May-13 11:58:40.857058 INFO    Opening DB in /home/david/.Plenteum/DB
-2018-May-13 11:58:40.858174 ERROR   DB Error. DB can't be opened in /home/zach/.Plenteum/DB. Error: IO error: While lock file: /home/zach/.Plenteum/DB/LOCK: Resource temporarily unavailable
+2018-May-13 11:58:40.857058 INFO    Opening DB in /home/username/.Plenteum/DB
+2018-May-13 11:58:40.858174 ERROR   DB Error. DB can't be opened in /home/username/.Plenteum/DB. Error: IO error: While lock file: /home/username/.Plenteum/DB/LOCK: Resource temporarily unavailable
 2018-May-13 11:58:40.873692 ERROR   Exception: IO error
 ```
 

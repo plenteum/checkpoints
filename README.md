@@ -29,10 +29,10 @@
 If you did the steps correctly, you should see something like this output.
 
 ```
-2018-May-13 11:58:39.654478 INFO    Welcome to Plenteum v0.3.0 ()
+2018-May-13 11:58:39.654478 INFO    Welcome to Plenteum v0.4.5 ()
 2018-May-13 11:58:39.654914 INFO    Module folder: Plenteumd
 2018-May-13 11:58:39.655249 INFO    Loading Checkpoints for faster initial sync...
-2018-May-13 11:58:40.854979 INFO    Loaded 144695 checkpoints from checkpoints.csv
+2018-May-13 11:58:40.854979 INFO    Loaded 251786 checkpoints from checkpoints.csv
 ```
 
 - Plenteumd will then start syncing from checkpoints.
